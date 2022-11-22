@@ -6,12 +6,6 @@
 ☘️ I am also interested in graphene, flying cars (eVtol), economics among other subjects. <br>
 💻 I’m currently learning Java (Spring), ReactJs and React Native (Cli and Expo)<br>
 
-<div align="center">
-  <a href="https://github.com/lielsesteixeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lielsesteixeira&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lielsesteixeira&layout=compact&langs_count=10&theme=midnight-purple&border=none&hide_border=true"/>
-</div>
-
 <br>
 
 ## 🛠 &nbsp;Tech Stack
